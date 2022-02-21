@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.FormulaTask_IncrementCounter.Caption" Value="increment counter" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Lookup.Contact.Supervisor.410006e1-ca4e-4502-a9ec-e54d922d2c00#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Contact" />
+			<Item Name="Caption" Value="My First Business Process" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.counter.Caption" Value="Counter" />
+			<Item Name="Parameters.counter.DisplayValue" Value="5" />
+			<Item Name="Parameters.result.Caption" Value="Result" />
+			<Item Name="Parameters.result.DisplayValue" Value="[#Counter#].ToString()" />
+		</Items>
+	</Group>
+</Resources>
