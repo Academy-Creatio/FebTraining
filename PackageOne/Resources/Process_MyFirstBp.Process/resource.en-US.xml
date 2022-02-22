@@ -7,6 +7,12 @@
 			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Lookup.Contact.Supervisor.410006e1-ca4e-4502-a9ec-e54d922d2c00#]" />
 			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
 			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Contact" />
+			<Item Name="BaseElements.UserTask1.Caption" Value="Calculator User Task" />
+			<Item Name="BaseElements.UserTask1.Parameters.A.Caption" Value="Parameter One" />
+			<Item Name="BaseElements.UserTask1.Parameters.A.DisplayValue" Value="90" />
+			<Item Name="BaseElements.UserTask1.Parameters.B.Caption" Value="Parameter Two" />
+			<Item Name="BaseElements.UserTask1.Parameters.B.DisplayValue" Value="80" />
+			<Item Name="BaseElements.UserTask1.Parameters.Result.Caption" Value="Result" />
 			<Item Name="Caption" Value="My First Business Process" />
 			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
 			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
@@ -16,6 +22,7 @@
 			<Item Name="Parameters.counter.DisplayValue" Value="5" />
 			<Item Name="Parameters.result.Caption" Value="Result" />
 			<Item Name="Parameters.result.DisplayValue" Value="[#Counter#].ToString()" />
+			<Item Name="Parameters.UtResult.Caption" Value="UtResult" />
 		</Items>
 	</Group>
 </Resources>

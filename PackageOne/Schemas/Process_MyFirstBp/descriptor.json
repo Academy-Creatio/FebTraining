@@ -2,9 +2,8 @@
   "Descriptor": {
     "UId": "32f77610-13c4-4dc1-a6e2-cef8f4739f92",
     "Name": "Process_MyFirstBp",
-    "ModifiedOnUtc": "\/Date(1645460954000)\/",
+    "ModifiedOnUtc": "\/Date(1645546887000)\/",
     "ManagerName": "ProcessSchemaManager",
-    "Caption": "My First Business Process",
-    "DependsOn": []
+    "Caption": "My First Business Process"
   }
 }
