@@ -1,0 +1,17 @@
+{
+  "Descriptor": {
+    "UId": "1c7e124c-58ba-4fd0-b6ae-ef1b0abc1beb",
+    "PackageVersion": "7.8.0",
+    "Name": "PackageThree",
+    "ModifiedOnUtc": "/Date(1645628494000)/",
+    "Maintainer": "Customer",
+    "Description": "Training Package One\nhttps://github.com/Academy-Creatio/FebTraining",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

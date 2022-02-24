@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_ContactInserting.Caption" Value="Before record added" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask4_3a2b6be8b40e4538b306f9d94c5765a8.Caption" Value="logger" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage4_1b6f251490d549ed8f59988a1ef66917.Caption" Value="Contact Inserting" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_19a297612107412f982b36c59fe01cd5.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_19a297612107412f982b36c59fe01cd5.Lanes.Lane_d84eeb947f194e048d8a68f77aadec55.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

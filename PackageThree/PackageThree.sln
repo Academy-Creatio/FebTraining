@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageThree", "PackageThree.csproj", "{1C7E124C-58BA-4FD0-B6AE-EF1B0ABC1BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7E124C-58BA-4FD0-B6AE-EF1B0ABC1BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7E124C-58BA-4FD0-B6AE-EF1B0ABC1BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7E124C-58BA-4FD0-B6AE-EF1B0ABC1BEB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7E124C-58BA-4FD0-B6AE-EF1B0ABC1BEB}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
