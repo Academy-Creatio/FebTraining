@@ -1,11 +1,11 @@
 ﻿{
   "Descriptor": {
-    "UId": "1c7e124c-58ba-4fd0-b6ae-ef1b0abc1beb",
+    "UId": "55a33728-4aaf-4eb7-ae11-c227432c84d9",
     "PackageVersion": "7.8.0",
-    "Name": "PackageThree",
-    "ModifiedOnUtc": "\/Date(1645628494000)\/",
+    "Name": "PackageFour",
+    "ModifiedOnUtc": "\/Date(1646150817000)\/",
     "Maintainer": "Customer",
-    "Description": "Training Package One\nhttps://github.com/Academy-Creatio/FebTraining",
+    "Description": "Web services example",
     "DependsOn": [
       {
         "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
