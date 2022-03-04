@@ -2,8 +2,11 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="Images.32c84e4a-c456-3c99-c619-c9c5ae0ae958.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMTMgMjEzIj4KICAgIDxkZWZzPgogICAgICAgIDxzdHlsZT4KICAgICAgICAgICAgLmNscy0xe2ZpbGw6I2ZmNDAxM30uY2xzLTJ7ZmlsbDojZTEwMDAwfQogICAgICAgIDwvc3R5bGU+CiAgICA8L2RlZnM+CiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODU0IC02NDc1KSI+CiAgICAgICAgPHBhdGggZD0iTTk5Ny43NDIgMzMyLjY3OGgtMjEzdi0yMTNoMjEzem0tMTc4LTE3N3YxNDJoMTQydi0xNDJ6IiBjbGFzcz0iY2xzLTEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDY5LjI1OCA2MzU1LjMyMikiLz4KICAgICAgICA8cGF0aCBkPSJNOTYxLjc0MiAyOTcuOTExdi0xNDJsMzYtMzZ2MjEzem0tMTc3IDM1di0yMTNsMzUgMzZ2MTQybC0zNSAzNXoiIGNsYXNzPSJjbHMtMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjkuMjU4IDYzNTUuMDg5KSIvPgogICAgPC9nPgo8L3N2Zz4K" />
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMiA4IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMiA4Ij48cGF0aCBkPSJtOS43IDNjLS40LTEuNy0xLjktMy0zLjctMy0xLjQgMC0yLjcuOC0zLjMgMi0xLjUuMi0yLjcgMS41LTIuNyAzIDAgMS43IDEuMyAzIDMgM2g2LjVjMS40IDAgMi41LTEuMSAyLjUtMi41IDAtMS4zLTEtMi40LTIuMy0yLjUiIGZpbGw9IiNmY2E3NTQiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNSA2LjVsLTEuNy0xLjcuNy0uOCAxIDEuMSAyLjYtMi42LjcuN3oiLz48L3N2Zz4=" />
+			<Item Name="LocalizableStrings.ActionItemOne.Value" Value="Action Item One" />
+			<Item Name="LocalizableStrings.ActionItemTwo.Value" Value="Action Item Two" />
 			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Percentage of profile completion. Click on the indicator to view which data you need to complete the profile." />
 			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profile complete" />
 			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
@@ -12,6 +15,8 @@
 			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
 			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
 			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.SubActionOneCaption.Value" Value="Sub Action One - Caption" />
+			<Item Name="LocalizableStrings.SubActionTwoCaption.Value" Value="Sub Action Two - Caption" />
 			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
 			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
 			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />

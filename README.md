@@ -34,9 +34,9 @@
 |4|[Video][d4v]|
 |5|[Video][d5v]|
 |6|[Video][d6v]|
-<!-- 
 |7|[Video][d7v]|
 |8|[Video][d8v]|
+<!-- 
 -->
 
 
@@ -59,10 +59,9 @@ Thank you for having taken development training with me. In order to make this c
 [d4v]: https://creatio-global.zoom.us/rec/share/yNbEYaOgFCa8u1S1n4xpHobnxj262atFsPeTdFKddhv_qVEYfK92_FdOp4wo6Fnj.rOUYWnM14VYiVJX7
 [d5v]: https://creatio-global.zoom.us/rec/share/EJVtBy1HOLmd2UheQqoDbuA0UHMKB9KxnIAXFLlSFft60cn-nUKUCjiv6zKxXYbB.tz8sb72kE7oZoUOS
 [d6v]: https://creatio-global.zoom.us/rec/share/lH-qxw3pkf7ECGmZ2ffohg35fGinZkw25vJq-5Zt_XJl9YeW3ImCvdqUbDNsnm2j.dt5ShppLeKewHAvh
-<!-- 
-[d7v]: 
-[d8v]: 
--->
+[d7v]: https://creatio-global.zoom.us/rec/share/aJEOI0wODipxI-Fj86o-dmWmH_z7ZYtSIIiM4Y6ArtdmvOTwXgFdwIasIneJwL6z.sgd1J7fq_5bHkZjS
+[d8v]: https://creatio-global.zoom.us/rec/share/YobrMQuQtAds6ihU2hpnWGDBLyq-DemSbWQ8J6hGB8Fy6Fk-N5KpwVwzlXlQvxgp.shXSHDHaJuU1vZTY
+
 
 <!-- Links -->
 [clio]:https://github.com/Advance-Technologies-Foundation/clio

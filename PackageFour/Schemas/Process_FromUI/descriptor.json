@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "f8722d48-437e-43c6-beda-36456a37522c",
+    "Name": "Process_FromUI",
+    "ModifiedOnUtc": "\/Date(1646323219000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Demo process start from UI"
+  }
+}

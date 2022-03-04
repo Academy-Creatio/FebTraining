@@ -39,7 +39,7 @@ namespace PackageFour
 			contact.FetchFromDB("Email", email, columns);
 
 			var httpContext = HttpContextAccessor.GetInstance();
-			WebOperationContext.Current.OutgoingResponse.StatusCode = System.Net.HttpStatusCode.NoContent;
+			WebOperationContext.Current.OutgoingResponse.StatusCode = System.Net.HttpStatusCode.OK;
 
 			return new DemoService_Dto
 			{
